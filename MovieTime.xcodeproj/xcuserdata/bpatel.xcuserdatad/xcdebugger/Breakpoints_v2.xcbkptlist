@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2E18F673-C4C1-4636-865A-3984695FE8DB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E38E3D4-E3C7-4F9B-A1F9-A09CD9D0B164"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieTime/MovieDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AC6565A-767C-444E-93A6-3C7C299C4EDE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieTime/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "9AC6565A-767C-444E-93A6-3C7C299C4EDE - c9141ca116056408"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of MovieTime.ContentView.store : MovieTime.DataStore"
+                  moduleName = "MovieTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bpatel/Desktop/MovieTime/MovieTime/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "9AC6565A-767C-444E-93A6-3C7C299C4EDE - 31ad8e0bdcf42426"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieTime.ContentView.store.getter : MovieTime.DataStore"
+                  moduleName = "MovieTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bpatel/Desktop/MovieTime/MovieTime/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "9AC6565A-767C-444E-93A6-3C7C299C4EDE - fd6b61f4e47ee052"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieTime.ContentView.store.setter : MovieTime.DataStore"
+                  moduleName = "MovieTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bpatel/Desktop/MovieTime/MovieTime/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "9AC6565A-767C-444E-93A6-3C7C299C4EDE - 3564038f3b566521"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieTime.ContentView.store.modify : MovieTime.DataStore"
+                  moduleName = "MovieTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bpatel/Desktop/MovieTime/MovieTime/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "14">
+               </Location>
+               <Location
+                  uuid = "9AC6565A-767C-444E-93A6-3C7C299C4EDE - d51fff02c6c52d52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieTime.ContentView.store.modify : MovieTime.DataStore with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MovieTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bpatel/Desktop/MovieTime/MovieTime/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "9AC6565A-767C-444E-93A6-3C7C299C4EDE - f37b4035f19f6f6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieTime.ContentView.$store.getter : SwiftUI.ObservedObject&lt;MovieTime.DataStore&gt;.Wrapper"
+                  moduleName = "MovieTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bpatel/Desktop/MovieTime/MovieTime/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  uuid = "9AC6565A-767C-444E-93A6-3C7C299C4EDE - 91b2e3b7305f8b62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieTime.ContentView.init() -&gt; MovieTime.ContentView"
+                  moduleName = "MovieTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bpatel/Desktop/MovieTime/MovieTime/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "462FB62F-BA4F-428F-BBF9-2F63FB2DA3EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieTime/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "searchMovies(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BE238E8-A561-4CC5-A305-CAF7E8BC1E68"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieTime/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getMovieList(searchText:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4BE238E8-A561-4CC5-A305-CAF7E8BC1E68 - 32968b16d5a4b070"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieTime.DataStore.getMovieList(searchText: Swift.String) -&gt; ()"
+                  moduleName = "MovieTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bpatel/Desktop/MovieTime/MovieTime/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "4BE238E8-A561-4CC5-A305-CAF7E8BC1E68 - 70a06502d2f33a44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MovieTime.MovieData&gt;) -&gt; () in MovieTime.DataStore.getMovieList(searchText: Swift.String) -&gt; ()"
+                  moduleName = "MovieTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bpatel/Desktop/MovieTime/MovieTime/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E0BEE8D-335E-48E2-B165-EDBCAEB16E01"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieTime/SearchBar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E18DD57-356B-4351-86FF-E33C7A0A6D17"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieTime/SearchBar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "makeCoordinator()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
